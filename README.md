@@ -1,6 +1,6 @@
 # David Guaman Davila Resume
 
-This repository contains the LaTeX source code for the professional resume of Anton David Guaman Davila. The resume highlights education, work experience, skills, extracurricular activities, honors, and certifications. It is designed using the `altacv` class to create a visually appealing and detailed CV. This document was developed using Overleaf, an online LaTeX editor that simplifies the process of LaTeX document creation, and is adapted from the AltaCV template available on Overleaf.
+This repository contains the LaTeX source code for my professional resume. The resume highlights my education, work experience, skills, extracurricular activities, honors, and certifications. It is designed using the `altacv` class to create a visually appealing and detailed CV. This document was developed using Overleaf, an online LaTeX editor that simplifies the process of LaTeX document creation, and is adapted from the AltaCV template available on Overleaf.
 
 ## Compilation
 
