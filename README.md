@@ -46,4 +46,7 @@ For any inquiries or suggestions, please contact Anton David Guaman Davila:
 - Email: [adguaman@mun.ca](mailto:adguaman@mun.ca)
 - LinkedIn: [David Guaman Davila](https://www.linkedin.com/in/anton-david-guaman-davila/)
 - GitHub: [DavidGuamanDavila](https://github.com/DavidGuamanDavila)
+- Portfolio [David Guaman Davila's Portfolio](https://davidguamandavila.github.io/)
 
+## Resources
+- [List of Fontawsome Icons](https://mirrors.ibiblio.org/CTAN/fonts/fontawesome/doc/fontawesome.pdf)
